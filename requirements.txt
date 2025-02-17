@@ -4,5 +4,5 @@
 azure.functions
 azure-cognitiveservices-vision-computervision
 azure-cognitiveservices-speech
-azure-ai-translation-document
+azure-ai-translation-text
 nltk
